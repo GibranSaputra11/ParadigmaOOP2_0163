@@ -12,4 +12,9 @@ public:
         x = a;
         y = b;
     }
+    // menampilkan nilai
+    void dispaly(){
+        cout << "x = " << x << endl;
+        cout << "y = " << y << endl;
+    }
 };
