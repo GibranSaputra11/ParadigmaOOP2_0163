@@ -16,6 +16,6 @@ public:
     }
 };
 
-class lia {
+class lia :public seseorang{
 
 };
