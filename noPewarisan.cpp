@@ -14,3 +14,7 @@ public:
         cout << "Hallo saya fungsi dari deriverd class";
     }
 };
+
+int main(){
+    derivedClass a;
+}
