@@ -9,6 +9,6 @@ public:
     } 
 };
 
-class joko {
+class joko :public seseorang{
 
 };
